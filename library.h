@@ -1,0 +1,6 @@
+#ifndef STL_SET_IMPLEMENT_LIBRARY_H
+#define STL_SET_IMPLEMENT_LIBRARY_H
+
+void hello();
+
+#endif //STL_SET_IMPLEMENT_LIBRARY_H
